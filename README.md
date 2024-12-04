@@ -1,10 +1,7 @@
 - 👋 Hi, I’m Ananya
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Machine Learning: Supervised & unsupervised learning, feature engineering, model evaluation.
-                             Deep Learning: Neural networks, CNNs, RNNs, transfer learning, and NLP.
-                            Data Analysis: EDA (Exploratory Data Analysis), data visualization, statistical analysis.
--
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Machine Learning , Deep Learning , Data Analysis
+- 📫 How to reach me https://www.linkedin.com/in/ananya-narayanan-b62597315/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
